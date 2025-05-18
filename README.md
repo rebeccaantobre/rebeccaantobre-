@@ -12,3 +12,8 @@ Currently expanding my knowledge in:
 **Software Architecture Patterns:** Exploring design patterns for building scalable and maintainable applications.
   
   🔎 Eager to collaborate on software engineering projects, contribute to open-source initiatives, and discuss innovative solutions! Let's build something great togethe*Thanks for visiting my profile!* 😃
+🌐 Socials:
+Instagram Pinterest Quora TikTok [Mastodon](https://mastodon.social/@Rebecca Antobre) email
+
+💻 Tech Stack:
+C++ Java JavaScript Python TypeScript Vercel Render NodeJS React Figma Git
